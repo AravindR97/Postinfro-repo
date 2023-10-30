@@ -40,7 +40,7 @@ elif choice == 1:
     print(df_main)
     
 else:
-    print("Than endu thenga aado parayunne?\n")
+    print("Invalid input\n")
     
 excel = input("Do you want to save the DataFrame to an excel file?:(y/n)\n")
 if excel == 'y':
